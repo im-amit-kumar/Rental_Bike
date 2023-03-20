@@ -12,4 +12,3 @@ dnspython
 xgboost==1.5.0
 optuna
 evidently
--e .
