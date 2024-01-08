@@ -18,7 +18,7 @@ class Prediction:
                            It has two modes Bulk Prediction and Single Prediction
 
             created by:
-                    Shivansh Kaushal and Chirag Sharma
+                    Amit aKumar
         """
 
 
